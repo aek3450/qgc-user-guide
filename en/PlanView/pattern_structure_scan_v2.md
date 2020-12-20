@@ -66,7 +66,7 @@ The user can always configure the following settings:
   - The vehicle will ascend to this altitude after completing the scan and then move to the next waypoint.
 - **Scan Bottom Alt:** Use this setting to avoid obstacles around the base of the structure.
   This adjust the bottom of the structure to be above the ground, and hence the altitude of the first scan
-  (the height of the lowest layer flight path is shown in the scan statistics as *Bottom Layer Alt*.
+  (the height of the lowest layer) flight path is shown in the scan statistics as *Bottom Layer Alt*.
 - **Rotate Entry Point:** Move the start/finish point to the next vertix/position on the flight path.
   
 The remaining settings depend on the *camera mode*:
