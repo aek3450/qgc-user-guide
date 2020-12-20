@@ -14,7 +14,7 @@ Both the loiter and land points can be dragged to new positions, and a number of
 ## Creating a Landing Pattern
 
 To create a landing pattern:
-1. Open [PlanView](../PlanView/PlanView.md) *Plan Tools*).
+1. Open [PlanView](../PlanView/PlanView.md) *Plan Tools*.
 1. Choose the *Pattern Tool* from the *Plan Tools* and then select *Fixed Wing Landing Pattern*.
 
    ![Fixed Wing Landing Pattern](../../assets/plan/pattern/fixed_wing_landing_pattern_menu.jpg)
