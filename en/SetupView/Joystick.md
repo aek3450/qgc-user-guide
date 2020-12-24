@@ -47,7 +47,7 @@ To configure a joystick:
 ## Advanced Options
 
 Some additional Options are available at the **Advanced** tab.
-These options may be useful for specific, unsual setups, for increasing sensibility, and for handling noisy joysticks.
+These options may be useful for specific, unusual setups, for increasing sensibility, and for handling noisy joysticks.
 
 ### Throttle Options
    ![Joystick setup - Throttle Modes](../../assets/setup/joystick_throttle_modes.jpg)
