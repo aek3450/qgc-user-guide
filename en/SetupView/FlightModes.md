@@ -18,7 +18,7 @@ To access this section, select the **Gear** icon (Vehicle Setup) in the top tool
 
 On ArduPilot you can assign up to 6 different flight modes to a single channel of your transmitter (the channel is selectable on Plane, but fixed to channel 5 on Copter).
 
-ArduCopter (only) also allows you to specify additional *Channel Options* for channels 7-12. These allow you to assign functions to these switches (for example, to turn on a camera, or return to launch). There is additional information about channel configuration in the ArduCopter docs: [Auxiliary Function Switches](
+ArduCopter (only) also allows you to specify additional *Channel Options* for channels 7-12. These allow you to assign functions to these switches (for example, to turn on a camera, or return to launch). There is additional information about channel configuration in the ArduCopter docs: [Auxiliary Function Switches]
 
 To set the flight modes:
 
